@@ -1,1 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tksx1227&theme=cobalt&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tksx1227&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tksx1227&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tksx1227&theme=nord_dark)
